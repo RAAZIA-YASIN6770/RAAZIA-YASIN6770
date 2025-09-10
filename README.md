@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-<img align="right" height="500" src="https://github.com/RAAZIA-YASIN6770/RAAZIA-YASIN6770/blob/29087b892499618fac622728ac54237c909d1981/Raazia.jpg"/>
+<img align="right" height="350" src="https://github.com/RAAZIA-YASIN6770/RAAZIA-YASIN6770/blob/29087b892499618fac622728ac54237c909d1981/Raazia.jpg"/>
 
 I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Power BI and Microsoft Office, and enjoy teaching others about technology. My goal is to deliver high-quality solutions that meet user needs.
 
