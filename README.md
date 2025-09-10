@@ -1,10 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Raazia Yasin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Power+BI+Expert;Microsoft+Office+Specialist;Passionate+Teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Power+BI+Expert;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
 </div>
+
 ## 💫 About Me
-<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+
+<img align="right" height="500" src="https://github.com/RAAZIA-YASIN6770/RAAZIA-YASIN6770/blob/29087b892499618fac622728ac54237c909d1981/Raazia.jpg"/>
 
 I'm a passionate Python Developer with experience in building scalable and efficient solutions. I also specialize in Power BI and Microsoft Office, and enjoy teaching others about technology. My goal is to deliver high-quality solutions that meet user needs.
 
@@ -40,3 +42,4 @@ My Journey Includes:
 [![](https://visitcount.itsvg.in/api?id=RAAZIA-YASIN6770&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
