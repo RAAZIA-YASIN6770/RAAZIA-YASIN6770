@@ -3,8 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Power+BI+Expert;Microsoft+Ofice+Spcialist;Passionate+Teacher" alt="Typing SVG" />
 </div>
-
-## 💫 About Me
+<p align="center">
+  <a href="https://github.com/RAAZIA-YASIN6770?tab=followers">
+    <img src="https://img.shields.io/github/followers/RAAZIA-YASIN6770?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RAAZIA-YASIN6770&color=green" alt="Profile Views">
+</p>
+💫 About Me
 
 <img align="right" height="350" src="https://github.com/RAAZIA-YASIN6770/RAAZIA-YASIN6770/blob/29087b892499618fac622728ac54237c909d1981/Raazia.jpg"/>
 
